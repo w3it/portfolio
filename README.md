@@ -1,2 +1,2 @@
 # Ian Corner's portfolio
-Professional portfolio using AWS and ReactJS
+Professional portfolio using AWS and ReactJS.
